@@ -134,14 +134,6 @@
           "enabled": true
         },
         {
-          "id": "1759900510850",
-          "title": "UUID在线生成器 - UUID v4随机生成工具 - 1024Tools - 免费在线工具箱",
-          "href": "https://1024tools.com/uuid",
-          "description": "免费在线UUID生成器，支持UUID v4随机生成，可批量生成1-10个UUID，支持随机复制功能。适用于数据库主键、API标识、分布式系统等场景。",
-          "icon": "/assets/favicon_1759900514553.ico",
-          "enabled": true
-        },
-        {
           "id": "1759900525336",
           "title": "ITDOG",
           "href": "https://www.itdog.cn/",
@@ -198,6 +190,14 @@
               "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
+              "enabled": true
+            },
+            {
+              "id": "1759900510850",
+              "title": "UUID在线生成器 - UUID v4随机生成工具 - 1024Tools - 免费在线工具箱",
+              "href": "https://1024tools.com/uuid",
+              "description": "免费在线UUID生成器，支持UUID v4随机生成，可批量生成1-10个UUID，支持随机复制功能。适用于数据库主键、API标识、分布式系统等场景。",
+              "icon": "/assets/favicon_1759900514553.ico",
               "enabled": true
             }
           ]
