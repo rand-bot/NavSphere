@@ -419,6 +419,14 @@
           "description": "免费学习编程",
           "icon": "/assets/favicon_1759934542615.png",
           "enabled": true
+        },
+        {
+          "id": "1759936003143",
+          "title": "SaDuck - 公考知识库",
+          "href": "https://saduck.top/",
+          "description": "【公考知识库】SaDuck - 考点详细解析，内容通俗易懂，精准查缺补漏，网站‌持续更新，提供实用工具，告别碎片化学习。",
+          "icon": "/assets/favicon_1759936047108.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
