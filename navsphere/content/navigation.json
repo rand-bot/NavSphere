@@ -14,6 +14,14 @@
           "description": "支持 Windows / macOS / Linux",
           "icon": "/assets/favicon_1759895080052.png",
           "enabled": true
+        },
+        {
+          "id": "1759895161159",
+          "title": "Alger Music Player",
+          "href": "https://github.com/algerkong/AlgerMusicPlayer",
+          "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制. Contribute to algerkong/AlgerMusicPlayer development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1759895230535.png",
+          "enabled": true
         }
       ],
       "subCategories": []
