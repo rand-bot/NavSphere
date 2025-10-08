@@ -103,6 +103,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759896551840",
+      "title": "常用网站",
+      "icon": "Heart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
