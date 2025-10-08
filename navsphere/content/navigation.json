@@ -240,6 +240,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1759899815934",
+      "title": "AI",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
