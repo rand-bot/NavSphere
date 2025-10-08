@@ -35,6 +35,15 @@
       "subCategories": []
     },
     {
+      "id": "1759899815934",
+      "title": "AI",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1759894906922",
       "title": "音乐",
       "icon": "Music",
@@ -240,15 +249,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1759899815934",
-      "title": "AI",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
