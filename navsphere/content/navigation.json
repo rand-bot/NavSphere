@@ -126,6 +126,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "70023a0c-dedf-408e-b57d-749c6e3d8cf5",
+          "title": "图标资源",
+          "icon": "Image",
+          "description": "各种图标下载",
+          "enabled": true,
+          "items": []
         }
       ]
     },
