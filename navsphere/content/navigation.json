@@ -161,7 +161,16 @@
           "icon": "Users",
           "description": "各种地址生成",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759897027267",
+              "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
+              "href": "https://www.meiguodizhi.com/",
+              "description": "随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。",
+              "icon": "/assets/favicon_1759897029697.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
