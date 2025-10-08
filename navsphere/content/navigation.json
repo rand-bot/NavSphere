@@ -48,6 +48,14 @@
           "description": "最早的AI科技公司",
           "icon": "/assets/favicon_1759899964978.png",
           "enabled": true
+        },
+        {
+          "id": "1759900052120",
+          "title": "Claude",
+          "href": "https://claude.ai/",
+          "description": "Talk with Claude, an AI assistant from Anthropic",
+          "icon": "/assets/favicon_1759900055596.png",
+          "enabled": true
         }
       ],
       "subCategories": []
