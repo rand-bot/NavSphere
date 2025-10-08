@@ -238,6 +238,14 @@
               "description": "本站能测试你的浏览器和网络是否支持 IPv6，并显示你当前的 IPv4 和 IPv6 地址。",
               "icon": "/assets/favicon_1759932566840.png",
               "enabled": true
+            },
+            {
+              "id": "1759932742488",
+              "title": "Ventusky - 天气预报、雷达和风力图 | Ventusky",
+              "href": "https://www.ventusky.com/",
+              "description": "动态风雨气温图，你所在位置的详细预报，数据来自最好的气象预报应用，比如：GFS，ICON，GEM",
+              "icon": "/assets/favicon_1759932744950.ico",
+              "enabled": true
             }
           ]
         }
