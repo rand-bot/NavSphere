@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1759894906922",
+      "title": "音乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
