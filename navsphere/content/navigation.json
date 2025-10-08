@@ -41,7 +41,16 @@
       "icon": "Database",
       "description": "各类资源总结",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759895420134",
+          "title": "Chrome插件下载",
+          "href": "https://crxdl.com/",
+          "description": "访问 crxdl.com",
+          "icon": "/assets/favicon_1759895440777.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
