@@ -124,6 +124,14 @@
           "description": "免费在线UUID生成器，支持UUID v4随机生成，可批量生成1-10个UUID，支持随机复制功能。适用于数据库主键、API标识、分布式系统等场景。",
           "icon": "/assets/favicon_1759900514553.ico",
           "enabled": true
+        },
+        {
+          "id": "1759900525336",
+          "title": "ITDOG",
+          "href": "https://www.itdog.cn/",
+          "description": "ITDOG - 在线ping_在线tcping",
+          "icon": "/assets/favicon_1759900529463.png",
+          "enabled": true
         }
       ],
       "subCategories": [
