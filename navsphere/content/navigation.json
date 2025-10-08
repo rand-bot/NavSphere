@@ -250,6 +250,14 @@
           ]
         },
         {
+          "id": "4f471113-1d12-4b44-b2e7-8ed6a014b051",
+          "title": "颜色",
+          "icon": "Palette",
+          "description": "获取颜色值",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "3d46dd4b-7986-4372-a8de-f3118e30198e",
           "title": "其他",
           "icon": "FolderOpen",
@@ -313,14 +321,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "4f471113-1d12-4b44-b2e7-8ed6a014b051",
-          "title": "颜色",
-          "icon": "Palette",
-          "description": "获取颜色值",
-          "enabled": true,
-          "items": []
         }
       ]
     },
