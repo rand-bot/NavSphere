@@ -141,6 +141,14 @@
               "description": "阿里巴巴免费的图标库",
               "icon": "/assets/favicon_1759897705073.png",
               "enabled": true
+            },
+            {
+              "id": "1759897787960",
+              "title": "图标工场 - 移动应用图标/启动图生成工具，一键生成所有尺寸的应用图标/启动图",
+              "href": "https://icon.wuruihong.com/",
+              "description": "一键快速生成iOS, Android，Web App, PhoneGap(Cordova)等移动平台不同大小(规格尺寸)的App图标和Launch Image/Splash Screen启动图，快速预览，可以直接打包发布到应用市场",
+              "icon": "/assets/favicon_1759897793081.png",
+              "enabled": true
             }
           ]
         }
