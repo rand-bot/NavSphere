@@ -198,7 +198,16 @@
           "icon": "Folder",
           "description": "各种工具集网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759934626365",
+              "title": "AI工具集",
+              "href": "https://ai-bot.cn/",
+              "description": "各种AI工具集合",
+              "icon": "/assets/favicon_1759934630608.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "3d46dd4b-7986-4372-a8de-f3118e30198e",
