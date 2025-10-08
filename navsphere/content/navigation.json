@@ -206,6 +206,14 @@
               "description": "各种AI工具集合",
               "icon": "/assets/favicon_1759934630608.png",
               "enabled": true
+            },
+            {
+              "id": "1759934736354",
+              "title": "在线工具",
+              "href": "https://tool.lu/",
+              "description": "各种工具",
+              "icon": "/assets/favicon_1759934740155.png",
+              "enabled": true
             }
           ]
         },
