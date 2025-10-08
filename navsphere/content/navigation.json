@@ -77,6 +77,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1759896145912",
+      "title": "VPS",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
