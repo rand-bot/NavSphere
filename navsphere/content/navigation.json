@@ -106,6 +106,14 @@
           "description": "Explore market-leading software and technology from SAP. Become an intelligent, sustainable enterprise with the best in cloud, platform, and sustainability solutions – no matter your industry or size.",
           "icon": "/assets/favicon_1759896690257.ico",
           "enabled": true
+        },
+        {
+          "id": "1759902167636",
+          "title": "Appwrite 项目部署平台",
+          "href": "https://cloud.appwrite.io",
+          "description": "Appwrite is an open-source platform for building applications at any scale, using your preferred programming languages and tools.",
+          "icon": "/assets/favicon_1759902176232.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
