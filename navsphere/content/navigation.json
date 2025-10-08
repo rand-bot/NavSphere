@@ -129,6 +129,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759896739516",
+      "title": "工具",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
