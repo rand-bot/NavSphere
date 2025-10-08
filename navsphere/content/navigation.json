@@ -265,7 +265,16 @@
       "icon": "Brain",
       "description": "各种在线学习网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759934073592",
+          "title": "多邻国",
+          "href": "https://www.duolingo.cn/",
+          "description": "有趣的外语学习网站",
+          "icon": "/assets/favicon_1759934080817.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
