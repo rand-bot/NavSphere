@@ -34,6 +34,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1759895385751",
+      "title": "资源网站",
+      "icon": "Database",
+      "description": "各类资源总结",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
