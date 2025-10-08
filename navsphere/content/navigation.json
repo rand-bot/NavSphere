@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1759896551840",
+      "title": "常用网站",
+      "icon": "Heart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1759894906922",
       "title": "音乐",
       "icon": "Music",
@@ -102,15 +111,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759896551840",
-      "title": "常用网站",
-      "icon": "Heart",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
