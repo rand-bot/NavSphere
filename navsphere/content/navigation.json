@@ -116,6 +116,14 @@
           "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
           "icon": "/assets/favicon_1759900492292.ico",
           "enabled": true
+        },
+        {
+          "id": "1759900510850",
+          "title": "UUID在线生成器 - UUID v4随机生成工具 - 1024Tools - 免费在线工具箱",
+          "href": "https://1024tools.com/uuid",
+          "description": "免费在线UUID生成器，支持UUID v4随机生成，可批量生成1-10个UUID，支持随机复制功能。适用于数据库主键、API标识、分布式系统等场景。",
+          "icon": "/assets/favicon_1759900514553.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
