@@ -80,6 +80,14 @@
           "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
           "icon": "/assets/favicon_1759902982751.png",
           "enabled": true
+        },
+        {
+          "id": "1759902995957",
+          "title": "Wenxiaobai",
+          "href": "https://www.wenxiaobai.com/",
+          "description": "免费的AI在线聊天",
+          "icon": "/assets/favicon_1759902999805.png",
+          "enabled": true
         }
       ],
       "subCategories": []
