@@ -118,6 +118,14 @@
           "description": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
           "icon": "/assets/favicon_1759896374237.png",
           "enabled": true
+        },
+        {
+          "id": "1759896688109",
+          "title": "SAP Software Solutions | Business Applications and Technology",
+          "href": "https://www.sap.com/index.html",
+          "description": "Explore market-leading software and technology from SAP. Become an intelligent, sustainable enterprise with the best in cloud, platform, and sustainability solutions – no matter your industry or size.",
+          "icon": "/assets/favicon_1759896690257.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
