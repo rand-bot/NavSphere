@@ -64,6 +64,14 @@
           "description": "google的AI聊天平台",
           "icon": "/assets/favicon_1759901097145.png",
           "enabled": true
+        },
+        {
+          "id": "1759901121802",
+          "title": "Google AI Studio",
+          "href": "https://aistudio.google.com/",
+          "description": "The fastest path from prompt to production with Gemini",
+          "icon": "/assets/favicon_1759901133845.png",
+          "enabled": true
         }
       ],
       "subCategories": []
