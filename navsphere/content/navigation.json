@@ -255,7 +255,16 @@
           "icon": "Palette",
           "description": "获取颜色值",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759935508599",
+              "title": "Colordot - A color picker for humans",
+              "href": "https://color.hailpixel.com/",
+              "description": "Simple color picker everyone",
+              "icon": "/assets/favicon_1759935511034.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "3d46dd4b-7986-4372-a8de-f3118e30198e",
