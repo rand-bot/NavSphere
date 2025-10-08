@@ -154,6 +154,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "512d6788-5a67-416f-a781-41fcbed0d08c",
+          "title": "地址生成器",
+          "icon": "Users",
+          "description": "各种地址生成",
+          "enabled": true,
+          "items": []
         }
       ]
     }
