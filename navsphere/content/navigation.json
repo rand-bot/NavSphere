@@ -6,7 +6,16 @@
       "icon": "Heart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759896608609",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com",
+          "description": "赛博活佛",
+          "icon": "/assets/favicon_1759896610776.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
