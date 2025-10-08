@@ -65,6 +65,14 @@
               "description": "极简插件是一个优质Chrome插件下载商店，收录热门好用的Chrome插件扩展，国内最方便的Chrome插件下载网站。一键下载谷歌扩展插件，无套路下载插件。",
               "icon": "/assets/favicon_1759895753387.ico",
               "enabled": true
+            },
+            {
+              "id": "1759896013951",
+              "title": "插件小屋",
+              "href": "https://www.chajianxw.com/",
+              "description": "访问 www.chajianxw.com",
+              "icon": "/assets/favicon_1759896017988.png",
+              "enabled": true
             }
           ]
         }
