@@ -297,6 +297,14 @@
           "description": "有趣的练习打字网站，寓教于乐",
           "icon": "/assets/favicon_1759934207336.ico",
           "enabled": true
+        },
+        {
+          "id": "1759934341158",
+          "title": "字典|新华字典|在线新华字典-汉文学网",
+          "href": "https://zd.hwxnet.com/",
+          "description": "在线新华字典共收录简体、繁体2万余字，为广大汉语学习者提供汉字的拼音、部首、笔画、字义解释、同义词、反义词、同音字、英文翻译、词义解释、词性变化、康熙字典解释、说文解字、字源演变、常用词组等查询，支持拼音查字、手写输入查字。",
+          "icon": "/assets/favicon_1759934345389.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
