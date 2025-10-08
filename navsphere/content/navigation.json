@@ -287,6 +287,14 @@
               "description": "Get HTML color codes, Hex color codes, RGB, HSL and OKLCH values with our color pickers, color wheel, color chart and HTML color names. Let&#x27;s go!",
               "icon": "/assets/favicon_1759935778327.ico",
               "enabled": true
+            },
+            {
+              "id": "1759935827498",
+              "title": "Dopely",
+              "href": "https://colors.dopely.top/",
+              "description": "Your ultimate digital color companion. Discover, analyze, and explore the world of color with detailed information, harmony generation, and conversion tools.",
+              "icon": "/assets/favicon_1759935831251.png",
+              "enabled": true
             }
           ]
         },
