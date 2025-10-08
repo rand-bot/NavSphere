@@ -193,6 +193,14 @@
           ]
         },
         {
+          "id": "61e2f56b-788f-4e73-a034-bfe38f55891d",
+          "title": "工具集",
+          "icon": "Folder",
+          "description": "各种工具集网站",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "3d46dd4b-7986-4372-a8de-f3118e30198e",
           "title": "其他",
           "icon": "FolderOpen",
@@ -256,14 +264,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "61e2f56b-788f-4e73-a034-bfe38f55891d",
-          "title": "工具集",
-          "icon": "Folder",
-          "description": "各种工具集网站",
-          "enabled": true,
-          "items": []
         }
       ]
     },
