@@ -279,6 +279,14 @@
               "description": "Browse thousands of beautiful colors palettes and generate your own with AI. 100% free, no login required.",
               "icon": "/assets/favicon_1759935714018.ico",
               "enabled": true
+            },
+            {
+              "id": "1759935775887",
+              "title": "HTML Color Codes",
+              "href": "https://htmlcolorcodes.com/",
+              "description": "Get HTML color codes, Hex color codes, RGB, HSL and OKLCH values with our color pickers, color wheel, color chart and HTML color names. Let&#x27;s go!",
+              "icon": "/assets/favicon_1759935778327.ico",
+              "enabled": true
             }
           ]
         },
