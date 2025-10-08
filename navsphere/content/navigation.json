@@ -144,7 +144,16 @@
           "icon": "MessageSquare",
           "description": "接收短信",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759896860027",
+              "title": "Sms-activate",
+              "href": "https://sms-activate.org",
+              "description": "在线接收各种验证码",
+              "icon": "/assets/favicon_1759896867677.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
