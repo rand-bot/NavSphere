@@ -222,6 +222,14 @@
               "description": "Pgyer is the App beta distribution hosting platform with no limits. It offers free app hosting and beta distribution services for both Apple iOS and Android applications.",
               "icon": "/assets/favicon_1759934818132.ico",
               "enabled": true
+            },
+            {
+              "id": "1759934862150",
+              "title": "UU在线工具",
+              "href": "https://uutool.cn/",
+              "description": "各种工具大集合",
+              "icon": "/assets/favicon_1759934865877.png",
+              "enabled": true
             }
           ]
         },
