@@ -260,6 +260,15 @@
       ]
     },
     {
+      "id": "1759934039924",
+      "title": "学习",
+      "icon": "Brain",
+      "description": "各种在线学习网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1759894906922",
       "title": "音乐",
       "icon": "Music",
@@ -394,15 +403,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1759934039924",
-      "title": "学习",
-      "icon": "Brain",
-      "description": "各种在线学习网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
