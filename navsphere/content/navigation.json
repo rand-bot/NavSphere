@@ -40,7 +40,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759899962245",
+          "title": "ChatGPT",
+          "href": "https://chatgpt.com/",
+          "description": "最早的AI科技公司",
+          "icon": "/assets/favicon_1759899964978.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
