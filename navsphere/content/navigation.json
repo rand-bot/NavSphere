@@ -126,14 +126,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1759897242279",
-          "title": "订阅管理系统",
-          "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
-          "enabled": true
-        },
-        {
           "id": "1759900487556",
           "title": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
           "href": "https://fofa.info/",
@@ -199,7 +191,16 @@
           "icon": "FolderOpen",
           "description": "other",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759897242279",
+              "title": "订阅管理系统",
+              "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
