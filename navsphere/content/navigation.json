@@ -78,6 +78,59 @@
       "subCategories": []
     },
     {
+      "id": "1759896739516",
+      "title": "工具",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1759897242279",
+          "title": "订阅管理系统",
+          "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
+          "enabled": true
+        }
+      ],
+      "subCategories": [
+        {
+          "id": "3352c8f8-d530-4e5c-b0c2-fee3b837117a",
+          "title": "短信",
+          "icon": "MessageSquare",
+          "description": "接收短信",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759896860027",
+              "title": "Sms-activate",
+              "href": "https://sms-activate.org",
+              "description": "在线接收各种验证码",
+              "icon": "/assets/favicon_1759896867677.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "512d6788-5a67-416f-a781-41fcbed0d08c",
+          "title": "地址生成器",
+          "icon": "Users",
+          "description": "各种地址生成",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759897027267",
+              "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
+              "href": "https://www.meiguodizhi.com/",
+              "description": "随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。",
+              "icon": "/assets/favicon_1759897029697.ico",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1759894906922",
       "title": "音乐",
       "icon": "Music",
@@ -191,59 +244,6 @@
               "href": "https://icon.wuruihong.com/",
               "description": "一键快速生成iOS, Android，Web App, PhoneGap(Cordova)等移动平台不同大小(规格尺寸)的App图标和Launch Image/Splash Screen启动图，快速预览，可以直接打包发布到应用市场",
               "icon": "/assets/favicon_1759897793081.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1759896739516",
-      "title": "工具",
-      "icon": "Settings",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1759897242279",
-          "title": "订阅管理系统",
-          "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
-          "enabled": true
-        }
-      ],
-      "subCategories": [
-        {
-          "id": "3352c8f8-d530-4e5c-b0c2-fee3b837117a",
-          "title": "短信",
-          "icon": "MessageSquare",
-          "description": "接收短信",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759896860027",
-              "title": "Sms-activate",
-              "href": "https://sms-activate.org",
-              "description": "在线接收各种验证码",
-              "icon": "/assets/favicon_1759896867677.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "512d6788-5a67-416f-a781-41fcbed0d08c",
-          "title": "地址生成器",
-          "icon": "Users",
-          "description": "各种地址生成",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759897027267",
-              "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
-              "href": "https://www.meiguodizhi.com/",
-              "description": "随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。",
-              "icon": "/assets/favicon_1759897029697.ico",
               "enabled": true
             }
           ]
