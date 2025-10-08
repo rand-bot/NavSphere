@@ -133,7 +133,16 @@
           "icon": "Image",
           "description": "各种图标下载",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759897687372",
+              "title": "Iconfont",
+              "href": "https://www.iconfont.cn/",
+              "description": "阿里巴巴免费的图标库",
+              "icon": "/assets/favicon_1759897705073.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
