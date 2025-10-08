@@ -72,6 +72,14 @@
           "description": "The fastest path from prompt to production with Gemini",
           "icon": "/assets/favicon_1759901133845.png",
           "enabled": true
+        },
+        {
+          "id": "1759902978453",
+          "title": "Perplexity",
+          "href": "https://www.perplexity.ai/",
+          "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+          "icon": "/assets/favicon_1759902982751.png",
+          "enabled": true
         }
       ],
       "subCategories": []
