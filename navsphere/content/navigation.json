@@ -6,7 +6,16 @@
       "icon": "Music",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759894966644",
+          "title": "高颜值的第三方网易云播放器",
+          "href": "https://github.com/Sherlockouo/music",
+          "description": "支持 Windows / macOS / Linux",
+          "icon": "/assets/favicon_1759895080052.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
