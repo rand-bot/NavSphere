@@ -51,7 +51,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "ee5b635b-b7ec-457f-8af2-230686c721d2",
+          "title": "Chrome插件",
+          "icon": "Folder",
+          "description": "Chrome插件下载",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
