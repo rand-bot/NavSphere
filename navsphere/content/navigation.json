@@ -22,6 +22,14 @@
           "description": "Keep spam out of your mail and stay safe - just use a disposable temporary email address! Protect your personal email address from spam with Temp-mail",
           "icon": "/assets/favicon_1759897332544.ico",
           "enabled": true
+        },
+        {
+          "id": "1759897342659",
+          "title": "生成随机密码 - 密码生成器 - 密码批量生成器",
+          "href": "https://suijimimashengcheng.bmcx.com/",
+          "description": "生成随机密码",
+          "icon": "/assets/favicon_1759897358036.png",
+          "enabled": true
         }
       ],
       "subCategories": []
