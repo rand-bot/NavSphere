@@ -124,16 +124,7 @@
       "icon": "Settings",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1759900487556",
-          "title": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
-          "href": "https://fofa.info/",
-          "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
-          "icon": "/assets/favicon_1759900492292.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "3352c8f8-d530-4e5c-b0c2-fee3b837117a",
@@ -198,6 +189,14 @@
               "href": "https://www.itdog.cn/",
               "description": "ITDOG - 在线ping_在线tcping",
               "icon": "/assets/favicon_1759900529463.png",
+              "enabled": true
+            },
+            {
+              "id": "1759900487556",
+              "title": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
+              "href": "https://fofa.info/",
+              "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
+              "icon": "/assets/favicon_1759900492292.ico",
               "enabled": true
             }
           ]
