@@ -313,6 +313,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4f471113-1d12-4b44-b2e7-8ed6a014b051",
+          "title": "颜色",
+          "icon": "Palette",
+          "description": "获取颜色值",
+          "enabled": true,
+          "items": []
         }
       ]
     },
