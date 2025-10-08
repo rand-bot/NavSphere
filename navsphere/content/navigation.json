@@ -30,6 +30,14 @@
           "description": "生成随机密码",
           "icon": "/assets/favicon_1759897358036.png",
           "enabled": true
+        },
+        {
+          "id": "1759908003474",
+          "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1759908006984.png",
+          "enabled": true
         }
       ],
       "subCategories": []
