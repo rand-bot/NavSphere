@@ -84,7 +84,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759896261168",
+          "title": "RackNerd - Introducing Infrastructure Stability",
+          "href": "https://www.racknerd.com/",
+          "description": "RackNerd - Global Dedicated Servers. Introducing Infrastructure Stability",
+          "icon": "/assets/favicon_1759896263689.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
