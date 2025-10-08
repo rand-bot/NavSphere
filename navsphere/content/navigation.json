@@ -256,6 +256,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "61e2f56b-788f-4e73-a034-bfe38f55891d",
+          "title": "工具集",
+          "icon": "Folder",
+          "description": "各种工具集网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
