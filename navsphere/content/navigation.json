@@ -74,6 +74,14 @@
           "description": "免费在线观看视频",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=moontv-freesguzpfey.cfapps.ap21.hana.ondemand.com",
           "enabled": true
+        },
+        {
+          "id": "1759897529593",
+          "title": "MoonTV",
+          "href": "https://mm-live.rain86.dpdns.org/",
+          "description": "me",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mm-live.rain86.dpdns.org",
+          "enabled": true
         }
       ],
       "subCategories": []
