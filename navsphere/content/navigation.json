@@ -14,6 +14,14 @@
           "description": "赛博活佛",
           "icon": "/assets/favicon_1759896610776.png",
           "enabled": true
+        },
+        {
+          "id": "1759897318302",
+          "title": "Temp Mail - Disposable Temporary Email",
+          "href": "https://temp-mail.org/",
+          "description": "Keep spam out of your mail and stay safe - just use a disposable temporary email address! Protect your personal email address from spam with Temp-mail",
+          "icon": "/assets/favicon_1759897332544.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
