@@ -56,6 +56,14 @@
           "description": "Talk with Claude, an AI assistant from Anthropic",
           "icon": "/assets/favicon_1759900055596.png",
           "enabled": true
+        },
+        {
+          "id": "1759901092910",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/app",
+          "description": "google的AI聊天平台",
+          "icon": "/assets/favicon_1759901097145.png",
+          "enabled": true
         }
       ],
       "subCategories": []
