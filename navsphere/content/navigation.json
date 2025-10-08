@@ -259,6 +259,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1759933562480",
+          "title": "Background Noises • Ambient Sounds • Relaxing Music | myNoise ®",
+          "href": "https://mynoise.net/",
+          "description": "myNoise sets the standard for online background noise machines and interactive soundscapes.",
+          "icon": "/assets/favicon_1759933566100.png",
+          "enabled": true
+        },
+        {
           "id": "1759933534940",
           "title": "泡椒音乐 - 免费无损音乐MP3、FLAC、WAV在线播放下载网站",
           "href": "https://pjmp3.com/",
@@ -280,14 +288,6 @@
           "href": "https://github.com/algerkong/AlgerMusicPlayer",
           "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制. Contribute to algerkong/AlgerMusicPlayer development by creating an account on GitHub.",
           "icon": "/assets/favicon_1759895230535.png",
-          "enabled": true
-        },
-        {
-          "id": "1759933562480",
-          "title": "Background Noises • Ambient Sounds • Relaxing Music | myNoise ®",
-          "href": "https://mynoise.net/",
-          "description": "myNoise sets the standard for online background noise machines and interactive soundscapes.",
-          "icon": "/assets/favicon_1759933566100.png",
           "enabled": true
         }
       ],
