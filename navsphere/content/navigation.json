@@ -271,6 +271,14 @@
               "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
               "icon": "/assets/favicon_1759935622154.svg",
               "enabled": true
+            },
+            {
+              "id": "1759935711047",
+              "title": "Color Palette Generator - ColorDrop",
+              "href": "https://colordrop.io/",
+              "description": "Browse thousands of beautiful colors palettes and generate your own with AI. 100% free, no login required.",
+              "icon": "/assets/favicon_1759935714018.ico",
+              "enabled": true
             }
           ]
         },
