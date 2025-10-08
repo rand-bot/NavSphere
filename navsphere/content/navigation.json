@@ -263,6 +263,14 @@
               "description": "Simple color picker everyone",
               "icon": "/assets/favicon_1759935511034.png",
               "enabled": true
+            },
+            {
+              "id": "1759935620049",
+              "title": "Color Hunt - Color Palettes for Designers and Artists",
+              "href": "https://colorhunt.co/",
+              "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+              "icon": "/assets/favicon_1759935622154.svg",
+              "enabled": true
             }
           ]
         },
