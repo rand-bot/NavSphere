@@ -136,7 +136,16 @@
       "icon": "Settings",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759897242279",
+          "title": "订阅管理系统",
+          "href": "https://merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=merge-freeusxneiys.cfapps.us10-001.hana.ondemand.com",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3352c8f8-d530-4e5c-b0c2-fee3b837117a",
