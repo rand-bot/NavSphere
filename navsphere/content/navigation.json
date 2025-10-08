@@ -192,6 +192,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3d46dd4b-7986-4372-a8de-f3118e30198e",
+          "title": "其他",
+          "icon": "FolderOpen",
+          "description": "other",
+          "enabled": true,
+          "items": []
         }
       ]
     },
