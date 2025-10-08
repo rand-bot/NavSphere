@@ -246,6 +246,14 @@
               "description": "动态风雨气温图，你所在位置的详细预报，数据来自最好的气象预报应用，比如：GFS，ICON，GEM",
               "icon": "/assets/favicon_1759932744950.ico",
               "enabled": true
+            },
+            {
+              "id": "1759933724630",
+              "title": "网盘搜索站",
+              "href": "https://soali.net/",
+              "description": "SoAli-网盘资源搜索引擎支持百度网盘、阿里云盘、夸克网盘搜索、迅雷网盘，每天更新海量资源",
+              "icon": "/assets/favicon_1759933728776.png",
+              "enabled": true
             }
           ]
         }
