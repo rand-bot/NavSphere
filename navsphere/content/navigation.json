@@ -92,6 +92,14 @@
           "description": "RackNerd - Global Dedicated Servers. Introducing Infrastructure Stability",
           "icon": "/assets/favicon_1759896263689.png",
           "enabled": true
+        },
+        {
+          "id": "1759896310757",
+          "title": "Vultrcn",
+          "href": "https://www.vultrcn.com/",
+          "description": "访问 www.vultrcn.com",
+          "icon": "/assets/favicon_1759896314634.png",
+          "enabled": true
         }
       ],
       "subCategories": []
