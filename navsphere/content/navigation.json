@@ -143,6 +143,40 @@
       "subCategories": []
     },
     {
+      "id": "1759894950367",
+      "title": "视频",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1760022966525",
+          "title": "MMTV",
+          "href": "https://mm-green-look.echover.qzz.io/",
+          "description": "影视聚合",
+          "icon": "/assets/img_1760022982997.png",
+          "enabled": true
+        },
+        {
+          "id": "1759897529593",
+          "title": "MoonTV",
+          "href": "https://mm-live.rain86.dpdns.org/",
+          "description": "me",
+          "icon": "/assets/img_1759899294664.png",
+          "enabled": true
+        },
+        {
+          "id": "1759897472135",
+          "title": "Moontv-SAP",
+          "href": "https://moontv-freesguzpfey.cfapps.ap21.hana.ondemand.com/",
+          "description": "免费在线观看视频",
+          "icon": "/assets/img_1759899310783.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1759896739516",
       "title": "工具",
       "icon": "Settings",
@@ -492,40 +526,6 @@
           "href": "https://github.com/algerkong/AlgerMusicPlayer",
           "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制. Contribute to algerkong/AlgerMusicPlayer development by creating an account on GitHub.",
           "icon": "/assets/favicon_1759895230535.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1759894950367",
-      "title": "视频",
-      "icon": "Video",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1760022966525",
-          "title": "MMTV",
-          "href": "https://mm-green-look.echover.qzz.io/",
-          "description": "影视聚合",
-          "icon": "/assets/img_1760022982997.png",
-          "enabled": true
-        },
-        {
-          "id": "1759897529593",
-          "title": "MoonTV",
-          "href": "https://mm-live.rain86.dpdns.org/",
-          "description": "me",
-          "icon": "/assets/img_1759899294664.png",
-          "enabled": true
-        },
-        {
-          "id": "1759897472135",
-          "title": "Moontv-SAP",
-          "href": "https://moontv-freesguzpfey.cfapps.ap21.hana.ondemand.com/",
-          "description": "免费在线观看视频",
-          "icon": "/assets/img_1759899310783.png",
           "enabled": true
         }
       ],
