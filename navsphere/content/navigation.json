@@ -376,6 +376,14 @@
               "description": "欢迎来到3D绳结，在这里学习打绳结成为一种沉浸式的3D体验！我们的综合资料库拥有超过200个动画绳结，配有分步教程，将复杂的绳索作业转化为清晰、易于遵循的说明，既适合完全的初学者，也可作为专家的快速参考。无论您是在寻找攀岩绳结、钓鱼绳结、航海绳结、露营绳结还是童军绳结，我们的互动平台都让学习基本绳结变得前所未有的简单。",
               "icon": "/assets/favicon_1759936319657.ico",
               "enabled": true
+            },
+            {
+              "id": "1760004163764",
+              "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
+              "href": "https://fiber.google.com/speedtest/",
+              "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+              "icon": "/assets/favicon_1760004195204.ico",
+              "enabled": true
             }
           ]
         }
