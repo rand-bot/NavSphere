@@ -6,7 +6,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liT2CIt4jXna01nL"
 GITHUB_OWNER = "rand-bot"
-GITHUB_REPO = "NavSphere"
+GITHUB_REPO = "navsphere-data"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.echover.qzz.io/api/auth"
 NEXT_PUBLIC_API_URL="https://nav.echover.qzz.io"
