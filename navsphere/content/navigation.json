@@ -519,6 +519,14 @@
           "description": "me",
           "icon": "/assets/img_1759899294664.png",
           "enabled": true
+        },
+        {
+          "id": "1760022966525",
+          "title": "MMTV",
+          "href": "https://mm-green-look.echover.qzz.io/",
+          "description": "影视聚合",
+          "icon": "/assets/img_1760022982997.png",
+          "enabled": true
         }
       ],
       "subCategories": []
