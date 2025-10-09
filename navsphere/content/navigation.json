@@ -374,7 +374,7 @@
               "title": "MISUB",
               "href": "https://misub.wss.us.kg/",
               "description": "基于 Cloudflare 的订阅转换和管理工具",
-              "icon": "https://misub.wss.us.kg/data:image/svg+xml,%3csvg xmlns=",
+              "icon": "/assets/img_1759975043528.png",
               "enabled": true
             }
           ]
