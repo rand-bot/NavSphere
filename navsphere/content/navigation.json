@@ -505,6 +505,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1760022966525",
+          "title": "MMTV",
+          "href": "https://mm-green-look.echover.qzz.io/",
+          "description": "影视聚合",
+          "icon": "/assets/img_1760022982997.png",
+          "enabled": true
+        },
+        {
           "id": "1759897472135",
           "title": "Moontv-SAP",
           "href": "https://moontv-freesguzpfey.cfapps.ap21.hana.ondemand.com/",
@@ -518,14 +526,6 @@
           "href": "https://mm-live.rain86.dpdns.org/",
           "description": "me",
           "icon": "/assets/img_1759899294664.png",
-          "enabled": true
-        },
-        {
-          "id": "1760022966525",
-          "title": "MMTV",
-          "href": "https://mm-green-look.echover.qzz.io/",
-          "description": "影视聚合",
-          "icon": "/assets/img_1760022982997.png",
           "enabled": true
         }
       ],
