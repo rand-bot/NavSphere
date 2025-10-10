@@ -551,6 +551,14 @@
           "description": "5000言集合了大众所熟知的经典国学，并给予翻译和解读，平台旨在传播国学知识及民族文化，让大家都能爱上璀璨的华夏文明。",
           "icon": "/assets/favicon_1760063873621.png",
           "enabled": true
+        },
+        {
+          "id": "1760063902451",
+          "title": "纪妖",
+          "href": "https://www.cbaigui.com/",
+          "description": "各种怪诞",
+          "icon": "/assets/favicon_1760063906755.png",
+          "enabled": true
         }
       ],
       "subCategories": []
