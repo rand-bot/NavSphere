@@ -529,6 +529,14 @@
           "enabled": true
         },
         {
+          "id": "1760063902451",
+          "title": "纪妖",
+          "href": "https://www.cbaigui.com/",
+          "description": "各种怪诞",
+          "icon": "/assets/favicon_1760063906755.png",
+          "enabled": true
+        },
+        {
           "id": "1759934203220",
           "title": "打字星球",
           "href": "https://www.type.fun/",
@@ -550,14 +558,6 @@
           "href": "https://saduck.top/",
           "description": "【公考知识库】SaDuck - 考点详细解析，内容通俗易懂，精准查缺补漏，网站‌持续更新，提供实用工具，告别碎片化学习。",
           "icon": "/assets/favicon_1759936047108.ico",
-          "enabled": true
-        },
-        {
-          "id": "1760063902451",
-          "title": "纪妖",
-          "href": "https://www.cbaigui.com/",
-          "description": "各种怪诞",
-          "icon": "/assets/favicon_1760063906755.png",
           "enabled": true
         }
       ],
