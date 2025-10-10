@@ -521,6 +521,14 @@
           "enabled": true
         },
         {
+          "id": "1760063870128",
+          "title": "5000言：国学经典-传统文化",
+          "href": "https://5000yan.com/",
+          "description": "5000言集合了大众所熟知的经典国学，并给予翻译和解读，平台旨在传播国学知识及民族文化，让大家都能爱上璀璨的华夏文明。",
+          "icon": "/assets/favicon_1760063873621.png",
+          "enabled": true
+        },
+        {
           "id": "1759934203220",
           "title": "打字星球",
           "href": "https://www.type.fun/",
@@ -542,14 +550,6 @@
           "href": "https://saduck.top/",
           "description": "【公考知识库】SaDuck - 考点详细解析，内容通俗易懂，精准查缺补漏，网站‌持续更新，提供实用工具，告别碎片化学习。",
           "icon": "/assets/favicon_1759936047108.ico",
-          "enabled": true
-        },
-        {
-          "id": "1760063870128",
-          "title": "5000言：国学经典-传统文化",
-          "href": "https://5000yan.com/",
-          "description": "5000言集合了大众所熟知的经典国学，并给予翻译和解读，平台旨在传播国学知识及民族文化，让大家都能爱上璀璨的华夏文明。",
-          "icon": "/assets/favicon_1760063873621.png",
           "enabled": true
         },
         {
