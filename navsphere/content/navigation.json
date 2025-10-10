@@ -543,6 +543,14 @@
           "description": "古诗文网作为传承经典的网站专注于古诗文服务，致力于让古诗文爱好者更便捷地发表及获取古诗文相关资料。",
           "icon": "/assets/favicon_1760063841086.png",
           "enabled": true
+        },
+        {
+          "id": "1760063870128",
+          "title": "5000言：国学经典-传统文化",
+          "href": "https://5000yan.com/",
+          "description": "5000言集合了大众所熟知的经典国学，并给予翻译和解读，平台旨在传播国学知识及民族文化，让大家都能爱上璀璨的华夏文明。",
+          "icon": "/assets/favicon_1760063873621.png",
+          "enabled": true
         }
       ],
       "subCategories": []
