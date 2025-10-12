@@ -653,7 +653,16 @@
       "icon": "Globe",
       "description": "各种趣味网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1760274746103",
+          "title": "Neal.fun（一系列轻松有趣的小互动）",
+          "href": "https://neal.fun/",
+          "description": "Games, visualizations, interactives and other weird stuff.",
+          "icon": "/assets/favicon_1760274748839.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
