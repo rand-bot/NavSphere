@@ -661,6 +661,14 @@
           "description": "Games, visualizations, interactives and other weird stuff.",
           "icon": "/assets/favicon_1760274748839.png",
           "enabled": true
+        },
+        {
+          "id": "1760274789173",
+          "title": "WindowSwap - 随机看世界各地陌生人窗外的风景，非常治愈。",
+          "href": "https://www.window-swap.com/",
+          "description": "Open a new window somewhere in the world. Look through windows shared by real people, and share yours to become a part of this global community.",
+          "icon": "/assets/favicon_1760274791488.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
