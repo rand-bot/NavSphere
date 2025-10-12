@@ -693,6 +693,14 @@
           "description": "Write a letter to the future: set goals for yourself, make a prediction about the world. Envision the future, and then make it happen. FutureMe has been delivering letters to the future for millions of people since 2002.",
           "icon": "/assets/favicon_1760275107132.png",
           "enabled": true
+        },
+        {
+          "id": "1760275327223",
+          "title": "The Useless Web - 随机跳转到各种无厘头网站，每次点击都有惊喜",
+          "href": "https://theuselessweb.com/",
+          "description": "The Useless Web Button... take me somewhere... useless. The perfect button for the bored, or those looking to find random sites online!",
+          "icon": "/assets/favicon_1760275332626.png",
+          "enabled": true
         }
       ],
       "subCategories": []
