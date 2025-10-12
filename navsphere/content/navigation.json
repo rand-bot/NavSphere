@@ -677,6 +677,14 @@
           "description": "Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes. Warning: contains flashing images.",
           "icon": "/assets/favicon_1760274897159.ico",
           "enabled": true
+        },
+        {
+          "id": "1760275030930",
+          "title": "Zoomquilt - The infinitely zooming image",
+          "href": "https://zzz.zoomquilt.org/",
+          "description": "无限放大的奇幻插画世界，让人沉浸到停不下来",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zzz.zoomquilt.org",
+          "enabled": true
         }
       ],
       "subCategories": []
