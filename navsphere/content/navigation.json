@@ -669,6 +669,14 @@
           "description": "Open a new window somewhere in the world. Look through windows shared by real people, and share yours to become a part of this global community.",
           "icon": "/assets/favicon_1760274791488.ico",
           "enabled": true
+        },
+        {
+          "id": "1760274825431",
+          "title": "Patatap-每个键盘按键都有不同音效与动画，能即兴“打字作曲”",
+          "href": "https://patatap.com/",
+          "description": "Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes. Warning: contains flashing images.",
+          "icon": "/assets/favicon_1760274897159.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
