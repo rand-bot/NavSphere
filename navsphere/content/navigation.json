@@ -634,6 +634,14 @@
               "description": "一键快速生成iOS, Android，Web App, PhoneGap(Cordova)等移动平台不同大小(规格尺寸)的App图标和Launch Image/Splash Screen启动图，快速预览，可以直接打包发布到应用市场",
               "icon": "/assets/favicon_1759897793081.png",
               "enabled": true
+            },
+            {
+              "id": "1760267180773",
+              "title": "The Thiings Collection",
+              "href": "https://www.thiings.co/",
+              "description": "A growing collection of 7000+ free 3D icons, generated with AI. Perfect for designers and creative projects.",
+              "icon": "/assets/favicon_1760267183770.png",
+              "enabled": true
             }
           ]
         }
