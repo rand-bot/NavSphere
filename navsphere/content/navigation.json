@@ -646,6 +646,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760274731803",
+      "title": "趣味",
+      "icon": "Globe",
+      "description": "各种趣味网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
