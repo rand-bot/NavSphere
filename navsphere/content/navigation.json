@@ -122,14 +122,6 @@
           "description": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
           "icon": "/assets/favicon_1759896374237.png",
           "enabled": true
-        },
-        {
-          "id": "1759902167636",
-          "title": "Appwrite 项目部署平台",
-          "href": "https://cloud.appwrite.io",
-          "description": "Appwrite is an open-source platform for building applications at any scale, using your preferred programming languages and tools.",
-          "icon": "/assets/favicon_1759902176232.svg",
-          "enabled": true
         }
       ],
       "subCategories": []
