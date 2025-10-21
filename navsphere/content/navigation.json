@@ -476,6 +476,14 @@
               "description": "现在可免费在线查阅——默沙东诊疗手册大众版（在美国和加拿大称为默沙东手册）是家庭医学参考书的标准——自 1899 年至今。",
               "icon": "/assets/favicon_1761011470212.ico",
               "enabled": true
+            },
+            {
+              "id": "1761054143338",
+              "title": "GitHub 用户信息查询",
+              "href": "https://github-user-search.wss.us.kg/",
+              "description": "输入GitHub账户名即可查询创建日期等信息",
+              "icon": "/assets/img_1761054185788.png",
+              "enabled": true
             }
           ]
         }
