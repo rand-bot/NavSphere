@@ -122,6 +122,14 @@
           "description": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
           "icon": "/assets/favicon_1759896374237.png",
           "enabled": true
+        },
+        {
+          "id": "1761051063801",
+          "title": "ClawCloud云平台",
+          "href": "https://ap-southeast-1.run.claw.cloud/",
+          "description": "ClawCloud",
+          "icon": "/assets/favicon_1761051069431.png",
+          "enabled": true
         }
       ],
       "subCategories": []
