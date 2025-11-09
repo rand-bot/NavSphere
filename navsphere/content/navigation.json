@@ -430,6 +430,14 @@
               "enabled": true
             },
             {
+              "id": "1762653135950",
+              "title": "IP纯净度查询",
+              "href": "https://whoer.com/zh/",
+              "description": "WHOER专业的IP查询检测工具,IP匿名度检测服务,深入分析IP地址归属地显示、DNS泄漏和IP匿名度评估,了解您的IP地址是否被有效隐藏以及检测和优化网络环境,保护您的网络隐私和安全。",
+              "icon": "/assets/favicon_1762653140054.png",
+              "enabled": true
+            },
+            {
               "id": "1759932742488",
               "title": "Ventusky - 天气预报、雷达和风力图 | Ventusky",
               "href": "https://www.ventusky.com/",
@@ -491,14 +499,6 @@
               "href": "https://github-user-search.wss.us.kg/",
               "description": "输入GitHub账户名即可查询创建日期等信息",
               "icon": "/assets/img_1761054185788.png",
-              "enabled": true
-            },
-            {
-              "id": "1762653135950",
-              "title": "IP纯净度查询",
-              "href": "https://whoer.com/zh/",
-              "description": "WHOER专业的IP查询检测工具,IP匿名度检测服务,深入分析IP地址归属地显示、DNS泄漏和IP匿名度评估,了解您的IP地址是否被有效隐藏以及检测和优化网络环境,保护您的网络隐私和安全。",
-              "icon": "/assets/favicon_1762653140054.png",
               "enabled": true
             }
           ]
