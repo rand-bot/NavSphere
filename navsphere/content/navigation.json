@@ -38,6 +38,14 @@
           "description": "生成随机密码",
           "icon": "/assets/favicon_1759897358036.png",
           "enabled": true
+        },
+        {
+          "id": "1762867019201",
+          "title": "开源远程在线工具",
+          "href": "https://mm-chat.zulipchat.com/",
+          "description": "在线语音、视频、投屏等",
+          "icon": "/assets/favicon_1762867023895.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
