@@ -508,6 +508,14 @@
               "description": "输入GitHub账户名即可查询创建日期等信息",
               "icon": "/assets/img_1761054185788.png",
               "enabled": true
+            },
+            {
+              "id": "1763187551032",
+              "title": "JavaScript Obfuscator Tool ｜ js混淆工具",
+              "href": "https://obfuscator.io/",
+              "description": "JavaScript Obfuscator is a free online tool that obfuscates your source code, preventing it from being stolen and used without permission.",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=obfuscator.io",
+              "enabled": true
             }
           ]
         }
