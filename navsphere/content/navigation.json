@@ -553,6 +553,14 @@
           "enabled": true
         },
         {
+          "id": "1763187267201",
+          "title": "BeddyStories - 全球经典儿童睡前故事库（0-12岁）",
+          "href": "https://beddystories.com/zh",
+          "description": "探索来自世界各地的精选睡前故事，让孩子在温馨的故事中进入梦乡",
+          "icon": "/assets/favicon_1763187272997.png",
+          "enabled": true
+        },
+        {
           "id": "1760063836162",
           "title": "古诗文网-古诗文经典传承",
           "href": "https://www.gushiwen.cn/",
@@ -598,14 +606,6 @@
           "href": "https://saduck.top/",
           "description": "【公考知识库】SaDuck - 考点详细解析，内容通俗易懂，精准查缺补漏，网站‌持续更新，提供实用工具，告别碎片化学习。",
           "icon": "/assets/favicon_1759936047108.ico",
-          "enabled": true
-        },
-        {
-          "id": "1763187267201",
-          "title": "BeddyStories - 全球经典儿童睡前故事库（0-12岁）",
-          "href": "https://beddystories.com/zh",
-          "description": "探索来自世界各地的精选睡前故事，让孩子在温馨的故事中进入梦乡",
-          "icon": "/assets/favicon_1763187272997.png",
           "enabled": true
         }
       ],
