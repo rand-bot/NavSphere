@@ -46,6 +46,14 @@
           "description": "在线语音、视频、投屏等",
           "icon": "/assets/favicon_1762867023895.svg",
           "enabled": true
+        },
+        {
+          "id": "1765035339885",
+          "title": "Markdown Preview - Preview your markdown files instantly",
+          "href": "https://md-preview.wss.us.kg",
+          "description": "A beautiful and modern markdown preview tool with syntax highlighting and drag & drop support",
+          "icon": "/assets/favicon_1765035346650.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
