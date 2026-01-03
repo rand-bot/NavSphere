@@ -66,6 +66,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1767427474752",
+          "title": "Google NotebookLM | AI 研究工具与思考伙伴",
+          "href": "https://notebooklm.google/",
+          "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
+          "icon": "/assets/favicon_1767427519860.svg",
+          "enabled": true
+        },
+        {
           "id": "1759899962245",
           "title": "ChatGPT",
           "href": "https://chatgpt.com/",
@@ -111,14 +119,6 @@
           "href": "https://www.wenxiaobai.com/",
           "description": "免费的AI在线聊天",
           "icon": "/assets/favicon_1759902999805.png",
-          "enabled": true
-        },
-        {
-          "id": "1767427474752",
-          "title": "Google NotebookLM | AI 研究工具与思考伙伴",
-          "href": "https://notebooklm.google/",
-          "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
-          "icon": "/assets/favicon_1767427519860.svg",
           "enabled": true
         }
       ],
