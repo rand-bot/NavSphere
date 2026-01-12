@@ -298,7 +298,16 @@
           "icon": "Cloud",
           "description": "各种网盘",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1768225087204",
+              "title": "TeraBox - Free Cloud Storage Up To 1 TB, Send Large Files Online",
+              "href": "https://www.terabox.com/ai/index/chinese",
+              "description": "TeraBox offers 1 tb free cloud storage & online file transfer. Login or Download TeraBox app to get 1 tb storage and use it on your PC, Mac, iPhone & Android.",
+              "icon": "/assets/favicon_1768225090696.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "61e2f56b-788f-4e73-a034-bfe38f55891d",
