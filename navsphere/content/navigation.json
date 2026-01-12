@@ -542,6 +542,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e0fbf397-61f9-42de-92f2-1f846dc3c10e",
+          "title": "网盘",
+          "icon": "Cloud",
+          "description": "各种网盘",
+          "enabled": true,
+          "items": []
         }
       ]
     },
