@@ -293,6 +293,14 @@
           ]
         },
         {
+          "id": "e0fbf397-61f9-42de-92f2-1f846dc3c10e",
+          "title": "网盘",
+          "icon": "Cloud",
+          "description": "各种网盘",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "61e2f56b-788f-4e73-a034-bfe38f55891d",
           "title": "工具集",
           "icon": "Folder",
@@ -542,14 +550,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "e0fbf397-61f9-42de-92f2-1f846dc3c10e",
-          "title": "网盘",
-          "icon": "Cloud",
-          "description": "各种网盘",
-          "enabled": true,
-          "items": []
         }
       ]
     },
