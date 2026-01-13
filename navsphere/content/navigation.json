@@ -54,6 +54,14 @@
           "description": "A beautiful and modern markdown preview tool with syntax highlighting and drag & drop support",
           "icon": "/assets/favicon_1765035346650.svg",
           "enabled": true
+        },
+        {
+          "id": "1768275058925",
+          "title": "Google Colab",
+          "href": "https://colab.research.google.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768275061746.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
