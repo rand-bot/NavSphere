@@ -272,6 +272,14 @@
               "description": "在线接收各种验证码",
               "icon": "/assets/favicon_1759896867677.png",
               "enabled": true
+            },
+            {
+              "id": "1768657579994",
+              "title": "Receive SMS Online for OTP | Temporary Phone Numbers from 180+ Countries",
+              "href": "https://hero-sms.com/",
+              "description": "Receive SMS online for WhatsApp, Telegram, Instagram, Gmail, TikTok and more. Get temporary phone numbers from 180+ countries. Instant OTP verification, anonymous and reliable",
+              "icon": "/assets/favicon_1768657583973.svg",
+              "enabled": true
             }
           ]
         },
