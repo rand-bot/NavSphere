@@ -62,6 +62,14 @@
           "description": "",
           "icon": "/assets/favicon_1768275061746.ico",
           "enabled": true
+        },
+        {
+          "id": "1768993834945",
+          "title": "Awesome Repos | GitHub 热门项目收藏展示平台",
+          "href": "https://awesome-popular-repos.wss.us.kg/",
+          "description": "发现和收藏 GitHub 上最热门的开源项目，涵盖前端、后端、AI、DevOps 等多个领域",
+          "icon": "/assets/favicon_1768993837746.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
