@@ -136,6 +136,14 @@
           "description": "免费的AI在线聊天",
           "icon": "/assets/favicon_1759902999805.png",
           "enabled": true
+        },
+        {
+          "id": "1772880305808",
+          "title": "NextChat",
+          "href": "https://next-chat.wss.us.kg/",
+          "description": "Your personal ChatGPT Chat Bot.",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=next-chat.wss.us.kg",
+          "enabled": true
         }
       ],
       "subCategories": []
