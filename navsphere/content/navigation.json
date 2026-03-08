@@ -186,6 +186,14 @@
           "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
           "icon": "/assets/favicon_1765370848172.png",
           "enabled": true
+        },
+        {
+          "id": "1772980135003",
+          "title": "Kejilion",
+          "href": "https://kejilion.pro/",
+          "description": "访问 kejilion.pro",
+          "icon": "/assets/favicon_1772980137698.png",
+          "enabled": true
         }
       ],
       "subCategories": []
