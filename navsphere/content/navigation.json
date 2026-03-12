@@ -589,6 +589,14 @@
               "description": "JavaScript Obfuscator is a free online tool that obfuscates your source code, preventing it from being stolen and used without permission.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=obfuscator.io",
               "enabled": true
+            },
+            {
+              "id": "1773327599391",
+              "title": "GPTMail - 智能多域名临时邮箱",
+              "href": "https://mail.chatgpt.org.uk/",
+              "description": "GPTMail 提供免费、安全、匿名的临时邮箱服务。保护您的隐私，远离垃圾邮件，让您的真实收件箱保持整洁。",
+              "icon": "/assets/favicon_1773327601835.svg",
+              "enabled": true
             }
           ]
         }
