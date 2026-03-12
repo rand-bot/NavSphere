@@ -144,6 +144,14 @@
           "description": "Your personal ChatGPT Chat Bot.",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=next-chat.wss.us.kg",
           "enabled": true
+        },
+        {
+          "id": "1773333075133",
+          "title": "AI Video Generator &amp; Image Generator by Higgsfield",
+          "href": "https://higgsfield.ai/",
+          "description": "Generate ai videos and images with cinematic quality, visual effects and ready presets. Professional AI tools for creators, marketers, and businesses.",
+          "icon": "/assets/favicon_1773333079138.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
