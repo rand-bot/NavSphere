@@ -70,6 +70,14 @@
           "description": "",
           "icon": "/assets/favicon_1768275061746.ico",
           "enabled": true
+        },
+        {
+          "id": "1773499831858",
+          "title": "Temp Mail-临时邮件-安全、即时、快速- DuckMail",
+          "href": "https://duckmail.echover.qzz.io/zh",
+          "description": "使用 DuckMail 保护您的个人邮箱地址免受垃圾邮件、机器人、钓鱼和其他在线滥用——安全的临时邮件服务。",
+          "icon": "/assets/favicon_1773499835209.png",
+          "enabled": true
         }
       ],
       "subCategories": []
