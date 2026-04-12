@@ -78,14 +78,6 @@
           "description": "",
           "icon": "/assets/favicon_1768275061746.ico",
           "enabled": true
-        },
-        {
-          "id": "1774011490212",
-          "title": "微软Account",
-          "href": "https://account.microsoft.com/",
-          "description": "访问 account.microsoft.com",
-          "icon": "/assets/favicon_1774011493932.png",
-          "enabled": true
         }
       ],
       "subCategories": []
