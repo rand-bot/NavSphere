@@ -91,6 +91,15 @@
       "subCategories": []
     },
     {
+      "id": "1775967840491",
+      "title": "邮箱",
+      "icon": "Mail",
+      "description": "国内国际常用邮箱服务",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1759899815934",
       "title": "AI",
       "icon": "Brain",
@@ -856,15 +865,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1775967840491",
-      "title": "邮箱",
-      "icon": "Mail",
-      "description": "国内国际常用邮箱服务",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
