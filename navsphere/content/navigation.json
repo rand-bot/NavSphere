@@ -266,6 +266,14 @@
           "description": "访问 mail.sohu.com",
           "icon": "/assets/favicon_1775968207710.png",
           "enabled": true
+        },
+        {
+          "id": "1775968305851",
+          "title": "139 Mail",
+          "href": "https://appmail.mail.10086.cn/",
+          "description": "访问 appmail.mail.10086.cn",
+          "icon": "/assets/favicon_1775968311581.png",
+          "enabled": true
         }
       ],
       "subCategories": []
