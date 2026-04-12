@@ -250,6 +250,14 @@
           "description": "阿里邮箱个人版为用户提供高效稳定便捷的电子邮箱服务，免费注册邮箱送2G超大附件，60G容量，您可以在电脑网页、手机端注册、登录阿里邮箱个人版。",
           "icon": "/assets/favicon_1775968169062.ico",
           "enabled": true
+        },
+        {
+          "id": "1775968174898",
+          "title": "新浪Mail",
+          "href": "https://mail.sina.com.cn",
+          "description": "访问 mail.sina.com.cn",
+          "icon": "/assets/favicon_1775968180646.png",
+          "enabled": true
         }
       ],
       "subCategories": []
