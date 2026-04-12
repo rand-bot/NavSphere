@@ -218,6 +218,14 @@
           "description": "Proton Mail is the world’s largest secure email service with over 100 million users. Available on Web, iOS, Android, and desktop. Protected by Swiss privacy law.",
           "icon": "/assets/favicon_1775968021800.png",
           "enabled": true
+        },
+        {
+          "id": "1775968069233",
+          "title": "mail.qq.com",
+          "href": "https://mail.qq.com",
+          "description": "",
+          "icon": "/assets/favicon_1775968074530.png",
+          "enabled": true
         }
       ],
       "subCategories": []
