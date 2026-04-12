@@ -202,6 +202,14 @@
           "description": "通过 iCloud 电子邮件地址在网页上查看并发送邮件。登录或新建账户即可开始使用。",
           "icon": "/assets/favicon_1775968006845.png",
           "enabled": true
+        },
+        {
+          "id": "1775968016104",
+          "title": "Proton Mail: Get a free email account with privacy and encryption | Proton",
+          "href": "https://proton.me/mail",
+          "description": "Proton Mail is the world’s largest secure email service with over 100 million users. Available on Web, iOS, Android, and desktop. Protected by Swiss privacy law.",
+          "icon": "/assets/favicon_1775968021800.png",
+          "enabled": true
         }
       ],
       "subCategories": []
