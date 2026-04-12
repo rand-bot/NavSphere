@@ -178,7 +178,16 @@
       "icon": "Mail",
       "description": "国内国际常用邮箱服务",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1775967926575",
+          "title": "Gmail",
+          "href": "https://mail.google.com",
+          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
+          "icon": "/assets/favicon_1775967942181.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
