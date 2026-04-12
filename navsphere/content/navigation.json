@@ -242,6 +242,14 @@
           "description": "网易126免费邮箱–你的专业电子邮局，超过20年的邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。",
           "icon": "/assets/favicon_1775968128427.ico",
           "enabled": true
+        },
+        {
+          "id": "1775968161876",
+          "title": "登录入口_阿里邮箱个人版-阿里云",
+          "href": "https://mail.aliyun.com",
+          "description": "阿里邮箱个人版为用户提供高效稳定便捷的电子邮箱服务，免费注册邮箱送2G超大附件，60G容量，您可以在电脑网页、手机端注册、登录阿里邮箱个人版。",
+          "icon": "/assets/favicon_1775968169062.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
