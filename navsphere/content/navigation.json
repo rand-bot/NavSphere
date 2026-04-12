@@ -266,6 +266,14 @@
           "description": "访问 mail.sohu.com",
           "icon": "/assets/favicon_1775968207710.png",
           "enabled": true
+        },
+        {
+          "id": "1775969126018",
+          "title": "GetEduMail | @warsawuni.edu.pl",
+          "href": "https://getedumail.com/mail/inbox",
+          "description": "Sign in to GetEduMail to access your .edu inbox and sync across devices.",
+          "icon": "/assets/favicon_1775969133934.png",
+          "enabled": true
         }
       ],
       "subCategories": []
