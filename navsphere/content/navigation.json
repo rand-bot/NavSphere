@@ -258,6 +258,14 @@
           "description": "访问 mail.sina.com.cn",
           "icon": "/assets/favicon_1775968180646.png",
           "enabled": true
+        },
+        {
+          "id": "1775968201836",
+          "title": "搜狐Mail",
+          "href": "https://mail.sohu.com",
+          "description": "访问 mail.sohu.com",
+          "icon": "/assets/favicon_1775968207710.png",
+          "enabled": true
         }
       ],
       "subCategories": []
