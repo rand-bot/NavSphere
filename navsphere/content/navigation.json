@@ -226,6 +226,14 @@
           "description": "QQ邮箱",
           "icon": "/assets/favicon_1775968074530.png",
           "enabled": true
+        },
+        {
+          "id": "1775968098496",
+          "title": "163网易免费邮-你的专业电子邮局",
+          "href": "https://mail.163.com",
+          "description": "网易163免费邮箱，你的专业电子邮局，注册用户数超10亿，专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。",
+          "icon": "/assets/favicon_1775968104877.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
