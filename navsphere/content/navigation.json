@@ -194,6 +194,14 @@
           "description": "微软邮箱",
           "icon": "/assets/favicon_1775967972539.png",
           "enabled": true
+        },
+        {
+          "id": "1775968001972",
+          "title": "iCloud 邮件 - Apple iCloud",
+          "href": "https://www.icloud.com/mail",
+          "description": "通过 iCloud 电子邮件地址在网页上查看并发送邮件。登录或新建账户即可开始使用。",
+          "icon": "/assets/favicon_1775968006845.png",
+          "enabled": true
         }
       ],
       "subCategories": []
