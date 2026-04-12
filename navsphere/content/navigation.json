@@ -210,6 +210,14 @@
           "description": "Proton Mail is the world’s largest secure email service with over 100 million users. Available on Web, iOS, Android, and desktop. Protected by Swiss privacy law.",
           "icon": "/assets/favicon_1775968021800.png",
           "enabled": true
+        },
+        {
+          "id": "1775968044222",
+          "title": "Yahoo Mail",
+          "href": "https://mail.yahoo.com",
+          "description": "Take a trip into an upgraded, more organized inbox. Sign in and start exploring all the free, organizational tools for your email. Check out new themes, send GIFs, find every photo you",
+          "icon": "/assets/favicon_1775968049547.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
