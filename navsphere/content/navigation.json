@@ -182,132 +182,6 @@
       "subCategories": []
     },
     {
-      "id": "1759896145912",
-      "title": "VPS",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1759896261168",
-          "title": "RackNerd - Introducing Infrastructure Stability",
-          "href": "https://www.racknerd.com/",
-          "description": "RackNerd - Global Dedicated Servers. Introducing Infrastructure Stability",
-          "icon": "/assets/favicon_1759896263689.png",
-          "enabled": true
-        },
-        {
-          "id": "1759896371635",
-          "title": "Vultr",
-          "href": "https://www.vultr.com/",
-          "description": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
-          "icon": "/assets/favicon_1759896374237.png",
-          "enabled": true
-        },
-        {
-          "id": "1761051063801",
-          "title": "ClawCloud云平台",
-          "href": "https://ap-southeast-1.run.claw.cloud/",
-          "description": "ClawCloud",
-          "icon": "/assets/favicon_1761051069431.png",
-          "enabled": true
-        },
-        {
-          "id": "1765370842279",
-          "title": "Zeabur - Your AI DevOps Engineer",
-          "href": "https://zeabur.com/",
-          "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
-          "icon": "/assets/favicon_1765370848172.png",
-          "enabled": true
-        },
-        {
-          "id": "1772980135003",
-          "title": "Kejilion",
-          "href": "https://kejilion.pro/",
-          "description": "访问 kejilion.pro",
-          "icon": "/assets/favicon_1772980137698.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1759894950367",
-      "title": "视频",
-      "icon": "Video",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1760022966525",
-          "title": "MMTV",
-          "href": "https://mgl.lumiqo.dpdns.org",
-          "description": "影视聚合",
-          "icon": "/assets/img_1760022982997.png",
-          "enabled": true
-        },
-        {
-          "id": "1759897529593",
-          "title": "MoonTV",
-          "href": "https://mm-live.rain86.dpdns.org/",
-          "description": "me",
-          "icon": "/assets/img_1759899294664.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1759894906922",
-      "title": "音乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1761093950994",
-          "title": "Solara",
-          "href": "https://mlisicen.wss.us.kg/",
-          "description": "在线音乐播放器",
-          "icon": "/assets/favicon_1761093953647.svg",
-          "enabled": true
-        },
-        {
-          "id": "1759933534940",
-          "title": "泡椒音乐 - 免费无损音乐MP3、FLAC、WAV在线播放下载网站",
-          "href": "https://pjmp3.com/",
-          "description": "泡椒音乐 - 在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质",
-          "icon": "/assets/favicon_1759933543226.png",
-          "enabled": true
-        },
-        {
-          "id": "1759933562480",
-          "title": "Background Noises • Ambient Sounds • Relaxing Music | myNoise ®",
-          "href": "https://mynoise.net/",
-          "description": "myNoise sets the standard for online background noise machines and interactive soundscapes.",
-          "icon": "/assets/favicon_1759933566100.png",
-          "enabled": true
-        },
-        {
-          "id": "1759894966644",
-          "title": "高颜值的第三方网易云播放器",
-          "href": "https://github.com/Sherlockouo/music",
-          "description": "支持 Windows / macOS / Linux",
-          "icon": "/assets/favicon_1759895080052.png",
-          "enabled": true
-        },
-        {
-          "id": "1759895161159",
-          "title": "Alger Music Player",
-          "href": "https://github.com/algerkong/AlgerMusicPlayer",
-          "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制. Contribute to algerkong/AlgerMusicPlayer development by creating an account on GitHub.",
-          "icon": "/assets/favicon_1759895230535.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1759896739516",
       "title": "工具",
       "icon": "Settings",
@@ -634,6 +508,132 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1759896145912",
+      "title": "VPS",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1759896261168",
+          "title": "RackNerd - Introducing Infrastructure Stability",
+          "href": "https://www.racknerd.com/",
+          "description": "RackNerd - Global Dedicated Servers. Introducing Infrastructure Stability",
+          "icon": "/assets/favicon_1759896263689.png",
+          "enabled": true
+        },
+        {
+          "id": "1759896371635",
+          "title": "Vultr",
+          "href": "https://www.vultr.com/",
+          "description": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
+          "icon": "/assets/favicon_1759896374237.png",
+          "enabled": true
+        },
+        {
+          "id": "1761051063801",
+          "title": "ClawCloud云平台",
+          "href": "https://ap-southeast-1.run.claw.cloud/",
+          "description": "ClawCloud",
+          "icon": "/assets/favicon_1761051069431.png",
+          "enabled": true
+        },
+        {
+          "id": "1765370842279",
+          "title": "Zeabur - Your AI DevOps Engineer",
+          "href": "https://zeabur.com/",
+          "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
+          "icon": "/assets/favicon_1765370848172.png",
+          "enabled": true
+        },
+        {
+          "id": "1772980135003",
+          "title": "Kejilion",
+          "href": "https://kejilion.pro/",
+          "description": "访问 kejilion.pro",
+          "icon": "/assets/favicon_1772980137698.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1759894950367",
+      "title": "视频",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1760022966525",
+          "title": "MMTV",
+          "href": "https://mgl.lumiqo.dpdns.org",
+          "description": "影视聚合",
+          "icon": "/assets/img_1760022982997.png",
+          "enabled": true
+        },
+        {
+          "id": "1759897529593",
+          "title": "MoonTV",
+          "href": "https://mm-live.rain86.dpdns.org/",
+          "description": "me",
+          "icon": "/assets/img_1759899294664.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1759894906922",
+      "title": "音乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1761093950994",
+          "title": "Solara",
+          "href": "https://mlisicen.wss.us.kg/",
+          "description": "在线音乐播放器",
+          "icon": "/assets/favicon_1761093953647.svg",
+          "enabled": true
+        },
+        {
+          "id": "1759933534940",
+          "title": "泡椒音乐 - 免费无损音乐MP3、FLAC、WAV在线播放下载网站",
+          "href": "https://pjmp3.com/",
+          "description": "泡椒音乐 - 在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质",
+          "icon": "/assets/favicon_1759933543226.png",
+          "enabled": true
+        },
+        {
+          "id": "1759933562480",
+          "title": "Background Noises • Ambient Sounds • Relaxing Music | myNoise ®",
+          "href": "https://mynoise.net/",
+          "description": "myNoise sets the standard for online background noise machines and interactive soundscapes.",
+          "icon": "/assets/favicon_1759933566100.png",
+          "enabled": true
+        },
+        {
+          "id": "1759894966644",
+          "title": "高颜值的第三方网易云播放器",
+          "href": "https://github.com/Sherlockouo/music",
+          "description": "支持 Windows / macOS / Linux",
+          "icon": "/assets/favicon_1759895080052.png",
+          "enabled": true
+        },
+        {
+          "id": "1759895161159",
+          "title": "Alger Music Player",
+          "href": "https://github.com/algerkong/AlgerMusicPlayer",
+          "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制. Contribute to algerkong/AlgerMusicPlayer development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1759895230535.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "1759934039924",
