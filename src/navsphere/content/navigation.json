@@ -70,6 +70,15 @@
           "description": "",
           "icon": "/assets/favicon_1768275061746.ico",
           "enabled": true
+        },
+        {
+          "id": "1792587274139",
+          "title": "PassMint · 随机密码生成器",
+          "href": "https://passmint.wss.us.kg/",
+          "description": "打开即得强密码，一键复制。完全在本地生成，不联网、不保存。",
+          "icon": "/assets/favicon_1792587280013.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
